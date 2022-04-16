@@ -6,12 +6,11 @@ hello git!!!
 hello git!!!
 hello git!!!
 hello git!!!
+hello git!!!    hot-fix test
 hello git!!!
 insert into hello.txt where in master
 hello git!!!
-hello git!!!
-hello git!!!
+hello git!!!    master test
 hello git!!!
 try to edit third version
-
-
+1234567-hot-fix
